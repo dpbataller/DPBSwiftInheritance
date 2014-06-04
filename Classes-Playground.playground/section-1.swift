@@ -8,7 +8,7 @@ class Animal {
     var age  :Integer = 0
     
     func getDetails() -> String {
-        return "My name is \(name) and it is \(age) old "
+        return "My name is \(name) and I'm \(age) years old "
     }
 }
 
